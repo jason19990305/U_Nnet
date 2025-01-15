@@ -80,6 +80,9 @@ The script will display real-time plots showing:
 - Comparison of the original image, predicted mask, and ground truth mask
 
 ![](https://github.com/jason19990305/U_Nnet/blob/main/Image/upload_45ca665f9e336ec8f6c15925b5783eba.png)
+![](https://github.com/jason19990305/U_Nnet/blob/main/Image/upload_728772212c5abc5183370ad2e30b8501.png)
+![](https://github.com/jason19990305/U_Nnet/blob/main/Image/upload_a598fd4cfba07bd4095f684a9feb8f32.png)
+![](https://github.com/jason19990305/U_Nnet/blob/main/Image/upload_a6bfd85b942bbf4681c9757715f71ec3.png)
 
 ## Model Architecture
 
