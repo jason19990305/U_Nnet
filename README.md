@@ -79,7 +79,7 @@ The script will display real-time plots showing:
 - Training loss over epochs
 - Comparison of the original image, predicted mask, and ground truth mask
 
-![Mask1]([https://github.com/jason19990305/U_Nnet/blob/main/Image/upload_45ca665f9e336ec8f6c15925b5783eba.png?raw=true])
+![](https://github.com/jason19990305/U_Nnet/blob/main/Image/upload_45ca665f9e336ec8f6c15925b5783eba.png)
 
 ## Model Architecture
 
