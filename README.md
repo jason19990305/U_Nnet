@@ -13,7 +13,6 @@ This repository provides an implementation of a U-Net model in PyTorch for seman
   - [Visualization](#visualization)
 - [Model Architecture](#model-architecture)
 - [Custom Loss Functions](#custom-loss-functions)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
